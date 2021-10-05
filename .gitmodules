@@ -1,0 +1,9 @@
+[submodule "ccNOos"]
+	path = ccNOos
+	url = https://github.com/InMechaSol/ccNOos.git
+[submodule "ccOS"]
+	path = ccOS
+	url = https://github.com/InMechaSol/ccOS.git
+[submodule "ccACU"]
+	path = ccACU
+	url = https://github.com/InMechaSol/ccACU.git

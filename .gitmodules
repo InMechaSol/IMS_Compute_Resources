@@ -7,3 +7,9 @@
 [submodule "ccACU"]
 	path = ccACU
 	url = https://github.com/InMechaSol/ccACU.git
+[submodule "uiWeb"]
+	path = uiWeb
+	url = https://github.com/InMechaSol/uiWeb.git
+[submodule "uiDotNet"]
+	path = uiDotNet
+	url = https://github.com/InMechaSol/uiDotNet.git
